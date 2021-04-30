@@ -10,8 +10,8 @@ HTML5, CSS3, Bootstrap, Javascript - Portfolio Site including links to my projec
 
 ## Optimizations
 
-As it is now all you can view is just the english sets, If I had more time/In the future I hope to add the japanese sets along with all promo cards as well. Also implment some sort of api that updates recent sold listing prices of the card that was purchased on Ebay or TCG. When clicking on an image to open the fancybox model the release date text moves slightly to the right and reveerts when closed.
+Need to update the hovering thought bubbles so that they are viewable on all viewport sizes. When I get more time update/add more projects to the section. Add a real life professional head shot with a more in depth about me section.
 
 ## Lessons Learned:
 
-I learned sometimes loading of some pages are slow, I used the full size source image rather than compressing the preview image (something to go back an update).
+I learned implementing a parallax background was more challenging than I thought, writing the javascript function and figuring out the exact Y-offset setting so that the image does not repeat on scroll was interesting.
