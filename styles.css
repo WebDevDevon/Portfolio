@@ -694,7 +694,6 @@ a p {
 }
 
 /*Styles for small screens*/
-
 @media  only screen and (max-width: 580px) {
 	#form-div{
 		left: 3%;
@@ -706,14 +705,10 @@ a p {
 	}
 }
 
-
 #projects {
   background: radial-gradient(circle, rgba(59,41,89,1) 0%, rgba(31,25,41,1) 100%);
   padding-bottom: 20px;
 }
-
-
-
 
 #footer {
   bottom: 0;
