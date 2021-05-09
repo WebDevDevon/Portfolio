@@ -169,7 +169,6 @@ html {
   display: none;
 }
 
-
 .sites {
   background-size: contain;
   width: 100%;
@@ -179,7 +178,6 @@ html {
   height: 75vh;
   margin-top: 10px;
 }
-
 
 /*Cards */
 
@@ -359,7 +357,6 @@ a p {
 }
 }
 
-
 /*education*/
 .cert {
   background-image: url(photo-1517134191118-9d595e4c8c2b.jpg);
@@ -393,9 +390,6 @@ a p {
 @media only screen and (min-width: 1141px) {
   .cert {height: 1000px;}
 }
-
-
-
 
 .doc1 {
   height: 600px;
