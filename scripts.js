@@ -52,7 +52,6 @@ function sendMail(params) {
   })
 }
 
-
 /* submit button*/
 
 let button = document.querySelector('.button');
