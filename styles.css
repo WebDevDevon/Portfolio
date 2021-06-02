@@ -98,6 +98,10 @@ html {
   .toptitle {float: none;}
 }
 
+@media only screen and (min-width: 1905px) {
+  .small {height: 500px; margin-top: 100px;}
+} 
+
 @media only screen and (max-width: 650px) {
   .small {height: 300px;}
 } 
@@ -955,6 +959,7 @@ video {
   margin: 10px;
   border: black solid 1px ;
   border-radius: 5px;
+  font-weight: 600;
 }
 
 .ht {
@@ -998,4 +1003,42 @@ video {
   .tasksec div:first-child {
     order: 1;
   }
+}
+
+.codes a {
+  color: rgb(0, 0, 0);
+  padding: 6px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin: 10px;
+  border: black solid 1px ;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.fa-github {
+  padding-right: 5px;
+  color: #000;
+  font-size: 25px;
+}
+
+.taskhub {
+  background-color: #ffffff;
+  color: #000;
+  font-weight: 600;
+}
+
+.taskhub:hover {
+  box-shadow: 0 0px 10px rgb(255, 255, 255);
+  transition: ease 0.3s;
+  text-decoration: none;
+}
+
+.fa-link {
+  font-size: 30px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
 }
