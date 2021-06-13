@@ -1014,3 +1014,23 @@ video {
   padding-left: 5px;
   padding-bottom: 5px;
 }
+
+.resume {
+  position: relative;
+  display: inline-block;
+  padding: 8px 15px;
+  text-decoration: none;
+  background-color: rgb(0, 150, 37);
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  font-weight: 400;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.resume:hover {
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+  text-decoration: none;
+  color: #abffd1;
+}
+
