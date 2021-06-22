@@ -822,12 +822,17 @@ a p {
 
 .social-button .fa {
 	font-size: 30px;
+  padding-bottom: 3px;
 	vertical-align: middle;
 	-webkit-transform: scale(0.75);
 	-ms-transform: scale(0.75);
 	transform: scale(0.75);
 	-webkit-transition: all .35s cubic-bezier(0.31,-0.105,0.43,1.59);
 	transition: all .35s cubic-bezier(0.31,-0.105,0.43,1.59);
+}
+
+.social-button .fa-github {
+  padding-left: 4px;
 }
 
 .social-button.linkedin:before {
