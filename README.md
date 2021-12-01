@@ -1,5 +1,7 @@
 # Portfolio-2021
 
+![alt text](preview.gif)
+
 HTML5, CSS3, Bootstrap, Javascript - Portfolio Site including links to my projects and ways to get in contact with me.
 
 **Link to site:** https://devonthedev.netlify.app/
